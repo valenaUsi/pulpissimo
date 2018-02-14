@@ -30,4 +30,3 @@ ipdb.generate_makefile("sim/vcompile/rtl.mk", source='rtl')
 
 print(tcolors.OK + "Generated new scripts for IPs!" + tcolors.ENDC)
 
-
